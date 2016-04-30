@@ -2,6 +2,8 @@
 
 Object represents a SGF game tree
 
+[![Build Status](https://travis-ci.org/anazawa/sgfgrove-gametree.svg)](https://travis-ci.org/anazawa/sgfgrove-gametree)
+
 ## Synopsis
 
 In your HTML:
