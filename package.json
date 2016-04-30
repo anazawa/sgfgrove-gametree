@@ -2,7 +2,7 @@
     "name": "sgfgrove-gametree",
     "author": "anazawa <anazawa@cpan.org>",
     "description": "Object represents SGF GameTree",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "homepage": "https://github.com/anazawa/sgfgrove-gametree",
     "repository": {
         "type": "git",
